@@ -1,0 +1,4 @@
+<sensors>
+  <reading type="temperature" value="32"/>
+  <reading type="speed" value="60"/>
+</sensors>

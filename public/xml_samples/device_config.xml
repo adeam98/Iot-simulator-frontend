@@ -1,0 +1,5 @@
+<device>
+  <id>device-001</id>
+  <sensor type="temperature" threshold="30"/>
+  <sensor type="speed" threshold="70"/>
+</device>
